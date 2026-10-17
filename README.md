@@ -1,4 +1,4 @@
-# Portafolio de jccallejas34
+# Portafolio de Jean Callejas
 
 Mi portafolio personal, publicado en **https://jccallejas34.github.io**.
 
@@ -6,4 +6,4 @@ Hecho con HTML, CSS y JavaScript. La sección de proyectos se carga automáticam
 
 ## Cómo editarlo
 
-Busca los comentarios `EDITA` en `index.html` para cambiar tu nombre, presentación, habilidades y enlaces de contacto.
+Edita `index.html` para cambiar la presentación, las habilidades o los enlaces de contacto.
